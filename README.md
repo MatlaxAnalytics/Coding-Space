@@ -1,2 +1,2 @@
 # Coding-Space
-Data Science and Engineering codes + setting
+Data Science and Engineering Codes + Settings
